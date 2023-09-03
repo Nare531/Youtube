@@ -1,0 +1,17 @@
+p {
+  font-family: Monsterrat;
+  text-align: center;
+}
+
+.model {
+  font-size: 100px;
+}
+
+.order{
+  font-size: 50px;
+  font-weight:50;
+}
+
+.Delivery{
+  text-decoration: underline;
+}
